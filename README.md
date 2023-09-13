@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first git repository
-Author - Suryabhan Singh
+Author - Suryabhan Singh(vs niketan)
